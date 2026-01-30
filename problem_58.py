@@ -15,3 +15,4 @@ def binary_search(arr, target):
 
 numbers = [1, 3, 5, 7, 9, 11, 13, 15]
 print(f"Index of 7: {binary_search(numbers, 7)}")
+
