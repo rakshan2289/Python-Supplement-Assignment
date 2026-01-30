@@ -2,7 +2,7 @@
 # Find and fix the error
 
 text = "Hello World From Python"
-no_spaces = ""
+no_spaces = text.replace(" ", "")
 for char in text:
     if char != " ":
         no_spaces += char
