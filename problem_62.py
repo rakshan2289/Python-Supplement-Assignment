@@ -11,3 +11,4 @@ def decimal_to_binary(n):
     return binary
 
 print(f"Binary of 10: {decimal_to_binary(10)}")
+
