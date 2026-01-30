@@ -9,3 +9,4 @@ def find_divisors(n):
     return divisors
 
 print(f"Divisors of 24: {find_divisors(24)}")
+
