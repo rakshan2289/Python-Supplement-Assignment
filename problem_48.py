@@ -12,3 +12,4 @@ def calculator(a, b, operation):
         return a / b
 
 print(f"10 / 0 = {calculator(10, 0, 'divide')}")
+
