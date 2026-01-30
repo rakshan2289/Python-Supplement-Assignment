@@ -6,3 +6,4 @@ product = 0
 for num in numbers:
     product *= num
 print(f"Product: {product}")
+
